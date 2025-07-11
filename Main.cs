@@ -12,7 +12,7 @@ using UnityEngine;
 namespace MvL_Unlocked {
 	[BepInPlugin(modID, modName, version)]
 	public class Main : BaseUnityPlugin {
-		private const string modID = "dev.parax.mariovsluigi.fps_fix";
+		private const string modID = "dev.parax342.mariovsluigi.fps_fix";
 		private const string modName = "FPS Fix";
 		private const string version = "1.0.0";
 
