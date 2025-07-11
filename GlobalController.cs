@@ -8,7 +8,7 @@ using UnityEngine;
 namespace MvL_Unlocked {
 
 	[HarmonyPatch(typeof(NSMB.GlobalController))]
-	public class UnlockValueLimits {
+	public class FPSStuff {
 
 		private static bool hasUnfocusedBefore = false;
 
